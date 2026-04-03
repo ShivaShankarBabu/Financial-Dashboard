@@ -76,3 +76,6 @@ It allows users to track financial activities, view transactions, and understand
 ```bash
 npm install
 npm run dev
+
+## 🌐 Live Demo
+👉 https://financial-dashboard-wheat-eight.vercel.app/
